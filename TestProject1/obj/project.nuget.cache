@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "RnL08RGrsu2SAuTIj3LTw1Sjaao+po5xAUxPkDnxEl3vauPGqvunUNyTLu4Gybwhqg2hdriv+8UOe4mKCW12Gg==",
+  "dgSpecHash": "fW1CS2YdUZGPFnGP7Ii/YArhR2PvX2Dbf0UMTTULeJ73/1ffILcSm9kKmwpD9T2Z87r0CpD8PX7R7ABcOs8BDQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\marti\\OneDrive\\Documents\\GitHub\\azuretemp\\TestProject1\\TestProject1.csproj",
+  "projectFilePath": "C:\\Users\\marti\\OneDrive\\Documents\\GitHub\\azuretemp\\TestProject1\\Tests.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\marti\\.nuget\\packages\\coverlet.collector\\3.1.2\\coverlet.collector.3.1.2.nupkg.sha512",
     "C:\\Users\\marti\\.nuget\\packages\\microsoft.codecoverage\\17.1.0\\microsoft.codecoverage.17.1.0.nupkg.sha512",

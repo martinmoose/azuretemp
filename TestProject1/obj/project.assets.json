@@ -5982,9 +5982,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\marti\\OneDrive\\Documents\\GitHub\\azuretemp\\TestProject1\\TestProject1.csproj",
-      "projectName": "TestProject1",
-      "projectPath": "C:\\Users\\marti\\OneDrive\\Documents\\GitHub\\azuretemp\\TestProject1\\TestProject1.csproj",
+      "projectUniqueName": "C:\\Users\\marti\\OneDrive\\Documents\\GitHub\\azuretemp\\TestProject1\\Tests.csproj",
+      "projectName": "Tests",
+      "projectPath": "C:\\Users\\marti\\OneDrive\\Documents\\GitHub\\azuretemp\\TestProject1\\Tests.csproj",
       "packagesPath": "C:\\Users\\marti\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\marti\\OneDrive\\Documents\\GitHub\\azuretemp\\TestProject1\\obj\\",
       "projectStyle": "PackageReference",
