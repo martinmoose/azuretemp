@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\marti\\source\\repos\\Example9000\\Example9000\\Example9000.csproj",
+      "projectUniqueName": "C:\\Users\\marti\\OneDrive\\Documents\\GitHub\\azuretemp\\Example9000\\Example9000.csproj",
       "projectName": "Example9000",
-      "projectPath": "C:\\Users\\marti\\source\\repos\\Example9000\\Example9000\\Example9000.csproj",
+      "projectPath": "C:\\Users\\marti\\OneDrive\\Documents\\GitHub\\azuretemp\\Example9000\\Example9000.csproj",
       "packagesPath": "C:\\Users\\marti\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\marti\\source\\repos\\Example9000\\Example9000\\obj\\",
+      "outputPath": "C:\\Users\\marti\\OneDrive\\Documents\\GitHub\\azuretemp\\Example9000\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\marti\\AppData\\Roaming\\NuGet\\NuGet.Config",

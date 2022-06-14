@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\marti\\OneDrive\\Documents\\GitHub\\azuretemp\\Example9000\\Example9000.csproj": {}
+    "C:\\Users\\marti\\OneDrive\\Documents\\GitHub\\azuretemp\\TestProject1\\TestProject1.csproj": {}
   },
   "projects": {
-    "C:\\Users\\marti\\OneDrive\\Documents\\GitHub\\azuretemp\\Example9000\\Example9000.csproj": {
+    "C:\\Users\\marti\\OneDrive\\Documents\\GitHub\\azuretemp\\TestProject1\\TestProject1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\marti\\OneDrive\\Documents\\GitHub\\azuretemp\\Example9000\\Example9000.csproj",
-        "projectName": "Example9000",
-        "projectPath": "C:\\Users\\marti\\OneDrive\\Documents\\GitHub\\azuretemp\\Example9000\\Example9000.csproj",
+        "projectUniqueName": "C:\\Users\\marti\\OneDrive\\Documents\\GitHub\\azuretemp\\TestProject1\\TestProject1.csproj",
+        "projectName": "TestProject1",
+        "projectPath": "C:\\Users\\marti\\OneDrive\\Documents\\GitHub\\azuretemp\\TestProject1\\TestProject1.csproj",
         "packagesPath": "C:\\Users\\marti\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\marti\\OneDrive\\Documents\\GitHub\\azuretemp\\Example9000\\obj\\",
+        "outputPath": "C:\\Users\\marti\\OneDrive\\Documents\\GitHub\\azuretemp\\TestProject1\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\marti\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -39,6 +39,28 @@
       "frameworks": {
         "net6.0": {
           "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[17.1.0, )"
+            },
+            "coverlet.collector": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[3.1.2, )"
+            },
+            "xunit": {
+              "target": "Package",
+              "version": "[2.4.1, )"
+            },
+            "xunit.runner.visualstudio": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.4.3, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
@@ -50,9 +72,6 @@
           "assetTargetFallback": true,
           "warn": true,
           "frameworkReferences": {
-            "Microsoft.AspNetCore.App": {
-              "privateAssets": "none"
-            },
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
